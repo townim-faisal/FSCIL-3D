@@ -2,4 +2,4 @@
 
 Paper: [Arxiv](https://arxiv.org/abs/2205.15225)
 
-Code will be coming soon.
+Details will be coming soon.
