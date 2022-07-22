@@ -14,7 +14,7 @@ Figure: Overall Architecture
 </p>
 
 ## Dependencies
-FSCIL 3D is implemented in [PyTorch](https://pytorch.org/) and tested with Ubuntu 20.04.2 LTS, please install PyTorch first in the official instruction. You can install the anaconda environment also using the provided [environment.yml](environment.yml) file.
+FSCIL 3D is implemented in [PyTorch](https://pytorch.org/) and tested with Ubuntu 20.04.2 LTS, please install PyTorch first in the official instruction. You can also install the anaconda environment using the provided [environment.yml](environment.yml) file.
 
 
 ## Configurations
