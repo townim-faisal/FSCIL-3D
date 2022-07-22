@@ -1,6 +1,5 @@
 dataset_path : '/home/shafin/myHDD/townim_dataset/v11-shapenet-co3d'
-model_name : 'pointnet' # pointnet, pointconv, dgcnn
-sem_file: 'combine_wiki' 
+sem_file: 'wiki' 
 
 lr : 1e-4 
 wd : 1e-6
@@ -15,19 +14,10 @@ workers : 4
 use_memory : true 
 num_samples : 1 # number of samples - 20
 
-T: 3
-alpha : 0.5
-lamda : 2.0
-lamda1: 0.001
-
 feature_dim : 1024
 fewshot: 5
 sim: 'cosine'
-loss: 'mse' # 'mse', 'ce', 'both'
 
-hinton_loss: False
-freez_weights_after_task0: True
-feature_extractor_model_updated_after_task0: False
 
 # cluster, without_knn, conc  for train_pointnet_task0_with_w2v.py, train_pointnet_task0_without_w2v.py; select 'cluster' or 'without_knn'
 # cluster, conc for train_pointnet_incremental_with_knn_without_w2v.py, train_pointnet_incremental_with_knn_with_w2v.py; select 'cluster'

@@ -1,0 +1,15 @@
+34/train/0.pt 34
+34/train/1.pt 34
+34/train/10.pt 34
+34/train/11.pt 34
+34/train/12.pt 34
+35/train/0.pt 35
+35/train/1.pt 35
+35/train/10.pt 35
+35/train/100.pt 35
+35/train/101.pt 35
+36/train/0.pt 36
+36/train/1.pt 36
+36/train/10.pt 36
+36/train/11.pt 36
+36/train/12.pt 36

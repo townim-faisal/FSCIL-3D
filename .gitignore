@@ -1,3 +1,7 @@
+data/dataset/*
+saved_models/*
+!data/dataset/README.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
