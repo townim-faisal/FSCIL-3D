@@ -2,7 +2,7 @@
 
 Drive Link: [Link](https://mega.nz/folder/fBliUDBL#e-whIrJOCSjfXff7_S5iAQ)
 
-Please download the dataset and put it in this folder. You can prepare the dataset on your own. For limiting the computation, this dataset has the farthest 1024 number of points from each 3D point cloud object.
+Please download the dataset.zip and unzip it in this folder. You can prepare the dataset on your own. For limiting the computation, each 3D point cloud object has 1024 number of points using farthest point sampling.
 
 # Class Description
 
