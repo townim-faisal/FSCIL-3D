@@ -1,6 +1,6 @@
 # FSCIL 3D
 
-**[Few-shot Class-incremental Learning for 3D Point Cloud Objects, ECCV 2022](https://arxiv.org/abs/2205.15225)**
+**[Few-shot Class-incremental Learning for 3D Point Cloud Objects, ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3641_ECCV_2022_paper.php)**
 <br>
 Townim Chowdhury, Ali Cheraghian, Sameera Ramasinghe, Sahar Ahmadi, Morteza Saberi, Shafin Rahman
 <br>

@@ -1,6 +1,6 @@
 # Dataset
 
-Drive Link: [Link](https://drive.google.com/drive/folders/1XB7DUVCpumFKhHK8_hvMw82A1J12Rc0X?usp=sharing)
+Drive Link: [Link](https://mega.nz/folder/fBliUDBL#e-whIrJOCSjfXff7_S5iAQ)
 
 Please download the dataset and put it in this folder. You can prepare the dataset on your own. For limiting the computation, this dataset has the farthest 1024 number of points from each 3D point cloud object.
 
